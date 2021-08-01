@@ -9,6 +9,7 @@ public class Teacher {
     private String name;
     private int age;
     private int sex;
+    private String no;
 
     @Override
     public String toString() {
