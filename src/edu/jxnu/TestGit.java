@@ -6,4 +6,7 @@ package edu.jxnu;
  * time:18:55
  */
 public class TestGit {
+    public static void main(String[] args) {
+        System.out.println("TestGit");
+    }
 }
